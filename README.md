@@ -31,14 +31,3 @@ Hence, the following steps are essential to this process:
 * `predictor.py`: Model's wrapper for inference, according to use cases and business rules;  
 
 * `nginx.conf`: Master configuration server that manages several workers.
-
-
-____________
-
-
-@inproceedings{smallermdistilbert,
-  title={Load What You Need: Smaller Versions of Mutlilingual BERT},
-  author={Abdaoui, Amine and Pradel, Camille and Sigel, Grégoire},
-  booktitle={SustaiNLP / EMNLP},
-  year={2020}
-}
